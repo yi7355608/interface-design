@@ -1,0 +1,267 @@
+Chapter 3: Interface Design – Part 1
+
+Interface Design
+Explanation (EN): Interface design focuses on designing how users interact with a system through screens, controls, and feedback.
+解释（中）：界面设计关注用户如何通过画面、控制元素和反馈与系统进行交互。
+Example (EN): Mobile app interface
+例子（中）：手机应用界面
+
+Interaction Model
+Explanation (EN): An interaction model helps designers understand the communication between users and systems before proposing design solutions.
+解释（中）：交互模型帮助设计者在提出设计方案前理解用户与系统之间的沟通方式。
+Example (EN): User clicks button → system responds
+例子（中）：用户点击按钮 → 系统回应
+
+Donald Norman’s Interaction Model
+Explanation (EN): Donald Norman’s model describes how users interact with systems through execution and evaluation stages.
+解释（中）：Donald Norman 的模型描述用户通过执行与评估阶段与系统交互。
+Example (EN): Setting an alarm on a phone
+例子（中）：在手机上设定闹钟
+
+Seven Stages of Action
+Explanation (EN): The model includes seven stages: goal, intention, action specification, execution, perception, interpretation, and evaluation.
+解释（中）：该模型包含七个阶段：目标、意图、动作制定、执行、感知、解释和评估。
+Example (EN): Want to send a message → type → send → check delivered
+例子（中）：想发信息 → 输入 → 发送 → 确认已发送
+
+Gulf of Execution
+Explanation (EN): The gap between what the user wants to do and what the system allows them to do.
+解释（中）：执行鸿沟是用户想做的事与系统允许的操作之间的差距。
+Example (EN): User cannot find the correct button
+例子（中）：用户找不到正确按钮
+
+Gulf of Evaluation
+Explanation (EN): The gap between the system’s actual state and the user’s understanding of that state.
+解释（中）：评估鸿沟是系统实际状态与用户理解之间的差距。
+Example (EN): System updated but no confirmation shown
+例子（中）：系统已更新但没有提示
+
+Usability Goal in HCI
+Explanation (EN): In Human–Computer Interaction, the goal is to reduce both gulfs to make systems easier to use.
+解释（中）：在人机交互中，目标是减少执行鸿沟与评估鸿沟，使系统更易用。
+Example (EN): Clear icons and messages
+例子（中）：清楚的图标与提示
+
+User Interface Design Guidelines
+Explanation (EN): Guidelines help designers design and evaluate user interfaces effectively.
+解释（中）：设计准则帮助设计者有效设计和评估用户界面。
+Example (EN): Standard button placement
+例子（中）：标准按钮位置
+
+Norman’s Design Principles
+Explanation (EN): Norman proposed principles to improve usability and reduce user errors.
+解释（中）：Norman 提出了提升可用性和减少错误的设计原则。
+Example (EN): Simple and clear layout
+例子（中）：简洁清楚的布局
+
+Visibility
+Explanation (EN): Visibility means important functions and controls should be easily seen.
+解释（中）：可见性表示重要功能和控制应清楚可见。
+Example (EN): Visible “Submit” button
+例子（中）：清楚可见的提交按钮
+
+Feedback
+Explanation (EN): Feedback informs users about the result of their actions.
+解释（中）：反馈让用户知道其操作的结果。
+Example (EN): Loading indicator
+例子（中）：加载提示
+
+Constraint
+Explanation (EN): Constraint limits user actions to prevent errors.
+解释（中）：限制用于防止用户执行错误操作。
+Example (EN): Disabled button
+例子（中）：不可点击按钮
+
+Mapping
+Explanation (EN): Mapping refers to the relationship between controls and their effects.
+解释（中）：映射表示控制与其结果之间的关系。
+Example (EN): Volume knob increases sound when turned right
+例子（中）：旋钮向右音量变大
+
+Consistency
+Explanation (EN): Consistency means similar actions should have similar operations across the system.
+解释（中）：一致性表示相似操作在系统中应有相同表现。
+Example (EN): Same icon used everywhere
+例子（中）：统一使用同一图标
+
+Affordance
+Explanation (EN): Affordance refers to an object’s properties that suggest how it can be used.
+解释（中）：可供性指物体本身暗示其使用方式的特性。
+Example (EN): Button looks clickable
+例子（中）：按钮看起来可以点击
+
+Shneiderman’s Eight Golden Rules
+Explanation (EN): A set of rules proposed by Ben Shneiderman to guide good interface design.
+解释（中）：Ben Shneiderman 提出的八项黄金法则用于指导良好界面设计。
+Example (EN): Undo function
+例子（中）：撤销功能
+
+Reduce Short-Term Memory Load
+Explanation (EN): Interfaces should reduce the amount of information users must remember.
+解释（中）：界面应减少用户需要记忆的信息量。
+Example (EN): Use menus instead of commands
+例子（中）：使用菜单而非记忆指令
+
+
+Shneiderman’s Eight Golden Rules
+1. Strive for Consistency
+
+EN: Keep similar operations and elements consistent throughout the interface.
+中： 在整个界面中保持操作方式和元素的一致性。
+Example: Same button style on every page / 每个页面按钮样式一致
+
+2. Enable Frequent Users to Use Shortcuts
+
+EN: Provide shortcuts for experienced users to speed up interaction.
+中： 为熟练用户提供快捷方式以提高效率。
+Example: Keyboard shortcuts / 键盘快捷键
+
+3. Offer Informative Feedback
+
+EN: The system should give clear feedback for every user action.
+中： 系统应对用户的每个操作提供清楚的反馈。
+Example: Loading message / 加载提示
+
+4. Design Dialogs to Yield Closure
+
+EN: Sequences of actions should have a clear beginning, middle, and end.
+中： 操作流程应有清楚的开始、过程和结束。
+Example: “Order completed” message / “订单完成”提示
+
+5. Offer Simple Error Handling
+
+EN: Error messages should be simple, clear, and helpful.
+中： 错误提示应简单、清楚并帮助用户解决问题。
+Example: “Password too short” / “密码太短”
+
+6. Permit Easy Reversal of Actions
+
+EN: Allow users to undo actions to reduce anxiety.
+中： 允许用户撤销操作以减少紧张感。
+Example: Undo button / 撤销按钮
+
+7. Support Internal Locus of Control
+
+EN: Users should feel they are in control of the system.
+中： 用户应感觉系统是由自己掌控的。
+Example: User controls settings / 用户控制设置
+
+8. Reduce Short-Term Memory Load
+
+EN: Minimize the amount of information users must remember.
+中： 减少用户需要短期记忆的信息量。
+Example: Menus instead of commands / 用菜单代替记忆指令
+
+Chapter 3: Interface Design – Part 2 (Interaction Styles)
+1. Interaction Styles
+
+Explanation (EN): Interaction styles describe different ways users communicate with computer systems.
+解释（中）： 交互风格描述用户与计算机系统进行沟通的不同方式。
+Example: Clicking icons / 点击图标
+
+2. Command Line Interface (CLI)
+
+Explanation (EN): Command Line Interface (CLI) allows users to interact with a system by typing text commands.
+解释（中）： 命令行界面（Command Line Interface，CLI）通过输入文字指令与系统交互。
+Example (EN): Linux terminal
+例子（中）： Linux 终端
+
+3. Advantages of Command Line Interface
+
+Explanation (EN): CLI is powerful, fast for experts, and uses fewer system resources.
+解释（中）： CLI 功能强大、熟练用户操作快、占用资源少。
+Example: Programmer uses commands / 程序员使用指令
+
+4. Disadvantages of Command Line Interface
+
+Explanation (EN): CLI is hard to learn and requires users to remember commands.
+解释（中）： CLI 学习困难，需要记忆大量指令。
+Example: Beginner confused by commands / 新手不懂指令
+
+5. Menu-Based Interface
+
+Explanation (EN): Menu-based interface lets users choose options from a list.
+解释（中）： 菜单式界面让用户从选项列表中选择操作。
+Example (EN): ATM menu
+例子（中）： 自动提款机菜单
+
+6. Advantages of Menu-Based Interface
+
+Explanation (EN): Easy to use and reduces memory load.
+解释（中）： 使用简单，减少记忆负担。
+Example: Restaurant ordering screen / 点餐界面
+
+7. Disadvantages of Menu-Based Interface
+
+Explanation (EN): Can be slow for expert users and deep menus may confuse users.
+解释（中）： 对熟练用户较慢，多层菜单可能让人混乱。
+Example: Too many menu levels / 菜单层级太多
+
+8. Form Fill-In Interface
+
+Explanation (EN): Form fill-in interface allows users to enter data into labeled fields.
+解释（中）： 表单填写界面让用户在标示好的栏位中输入数据。
+Example (EN): Online registration form
+例子（中）： 网上注册表单
+
+9. Advantages of Form Fill-In Interface
+
+Explanation (EN): Structured data entry reduces errors.
+解释（中）： 结构化输入可减少错误。
+Example: Login form / 登录表单
+
+10. Disadvantages of Form Fill-In Interface
+
+Explanation (EN): Filling many fields can be time-consuming.
+解释（中）： 表单太多栏位会耗时。
+Example: Long application form / 冗长申请表
+
+11. Direct Manipulation Interface
+
+Explanation (EN): Users interact directly with objects on the screen.
+解释（中）： 用户直接在屏幕上操作物件。
+Example (EN): Drag and drop files
+例子（中）： 拖放文件
+
+12. Characteristics of Direct Manipulation
+
+Explanation (EN): Continuous visual feedback and reversible actions.
+解释（中）： 持续视觉反馈且操作可撤销。
+Example: Move icon and undo / 移动图标并撤销
+
+13. Advantages of Direct Manipulation
+
+Explanation (EN): Easy to learn, intuitive, and enjoyable.
+解释（中）： 易学、直观、使用体验好。
+Example: Touchscreen interaction / 触屏操作
+
+14. Disadvantages of Direct Manipulation
+
+Explanation (EN): Not suitable for complex or repetitive tasks.
+解释（中）： 不适合复杂或重复性高的任务。
+Example: Hard to manage large data / 大量数据操作困难
+
+15. Natural Language Interface (NLI)
+
+Explanation (EN): Natural Language Interface (NLI) allows users to interact using everyday language.
+解释（中）： 自然语言界面（Natural Language Interface，NLI）允许用户使用日常语言交互。
+Example (EN): Chatbot
+例子（中）： 聊天机器人
+
+16. Advantages of Natural Language Interface
+
+Explanation (EN): Easy to use and requires little training.
+解释（中）： 使用简单，几乎无需学习。
+Example: Voice search / 语音搜索
+
+17. Disadvantages of Natural Language Interface
+
+Explanation (EN): Ambiguous language may cause misunderstanding.
+解释（中）： 语言含糊可能导致误解。
+Example: Wrong voice command / 语音识别错误
+
+18. Choosing the Right Interaction Style
+
+Explanation (EN): Designers must choose interaction styles based on users, tasks, and context.
+解释（中）： 设计者需根据用户、任务和使用情境选择合适的交互风格。
+Example: CLI for experts, GUI for beginners / 专家用 CLI，新手用 GUI
