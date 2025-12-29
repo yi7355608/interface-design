@@ -1,0 +1,205 @@
+Part 1: Evaluation Overview
+1. Evaluation
+
+EN: Evaluation is the process of assessing the usability of a system or interface.
+中: 评估是衡量系统或界面可用性的过程。
+Example: Test a website usability / 测试网站可用性
+
+2. Why Evaluate?
+
+EN: Evaluation determines usability, identifies problems, compares designs, and observes user behavior.
+中: 评估用于判断系统是否好用、找出问题、比较设计方案并观察用户行为。
+Example: Compare two app designs / 比较两个应用
+
+3. Importance of Evaluation
+
+EN: Evaluation ensures users can use and like the system before release.
+中: 评估确保系统在发布前能被用户使用并接受。
+Example: Fix errors early / 提前修复错误
+
+4. Goals of Evaluation
+
+EN: To assess usability, functionality, satisfaction, and identify specific issues.
+中: 评估目标是检查可用性、功能性、满意度并找出问题。
+Example: Find confusing features / 找出困惑功能
+
+5. What to Evaluate?
+
+EN: Both early and final designs should be evaluated.
+中: 早期和最终设计都需要评估。
+Example: Paper prototype / 纸上原型
+
+6. When to Evaluate?
+
+EN: Evaluation should occur throughout the Human–Computer Interaction process.
+中: 评估应贯穿整个 HCI 过程。
+Example: Test at every stage / 每阶段测试
+
+7. Where to Evaluate?
+
+EN: Evaluation can be done in laboratories or real-world environments.
+中: 可在实验室或真实环境进行评估。
+Example: Usability lab / 可用性实验室
+
+8. Types of Evaluation
+
+Formative Evaluation: Conducted during design / 设计中评估
+Summative Evaluation: Conducted after completion / 完成后评估
+Example: Improve prototype vs final test / 原型改进 vs 最终测试
+
+9. Evaluation Methods
+
+EN: Main methods are expert analysis and user participation.
+中: 主要方法是专家分析和用户参与。
+Example: Expert review vs user testing / 专家评估 vs 用户测试
+
+10. User Participation
+
+EN: Real users perform tasks and give feedback.
+中: 真实用户执行任务并提供反馈。
+Example: User testing session / 用户测试
+
+11. Laboratory Studies
+
+EN: Users perform tasks in a controlled environment.
+中: 用户在受控环境中完成任务。
+Example: Screen recording / 屏幕录制
+
+12. Field Studies
+
+EN: Evaluation conducted in the user’s real environment.
+中: 在真实使用环境中评估。
+Example: Workplace observation / 工作场所观察
+
+Part 2: Expert Analysis
+13. Expert Analysis
+
+EN: Experts evaluate usability without involving real users.
+中: 专家在无真实用户参与下评估可用性。
+Example: Expert reviews interface / 专家评估界面
+
+14. Why Use Expert Analysis?
+
+EN: Fast, low cost, suitable for early design stages.
+中: 速度快、成本低，适合设计早期。
+Example: Early prototype review / 早期原型评估
+
+15. Types of Expert Analysis
+
+EN: Includes heuristic evaluation, cognitive walkthrough, and guideline review.
+中: 包括启发式评估、认知走查和准则评估。
+
+16. Heuristic Evaluation
+
+EN: Experts inspect interfaces using usability heuristics.
+中: 专家依据可用性原则检查界面。
+Example: Check feedback and consistency / 检查反馈与一致性
+
+17. Nielsen’s Usability Heuristics
+
+EN: Ten heuristics proposed by Jakob Nielsen.
+中: Jakob Nielsen 提出的十项可用性原则。
+Example: Visibility of system status / 系统状态可见性
+
+18. Cognitive Walkthrough
+
+EN: Step-by-step evaluation of task learnability for new users.
+中: 逐步评估新手用户的可学习性。
+Example: First-time task completion / 新手完成任务
+
+19. Guideline Review
+
+EN: Interface is compared against established guidelines or standards.
+中: 将界面与设计准则或标准对比。
+Example: ISO guideline check / ISO 标准检查
+
+20. Role of Experts
+
+EN: Identify problems, suggest improvements, guide redesign.
+中: 发现问题、提出建议并指导重新设计。
+Example: Usability consultant / 可用性顾问
+
+Part 3: Usability Measurement
+21. Usability Measurement
+
+EN: Measuring usability using specific metrics.
+中: 使用特定指标衡量系统可用性。
+Example: Measure task time / 测量任务时间
+
+22. Why Measure Usability?
+
+EN: Provides objective data for evaluation and improvement.
+中: 提供客观数据用于评估和改进。
+Example: Compare usability scores / 比较可用性分数
+
+23. Usability Metrics
+
+EN: Quantifiable measures of usability.
+中: 可用性相关的量化指标。
+Example: Error rate / 错误率
+
+24. Effectiveness
+
+EN: Accuracy and completeness of task completion.
+中: 任务完成的准确性和完整性。
+Example: Correct submission / 正确提交
+
+25. Efficiency
+
+EN: Resources used to achieve goals.
+中: 完成目标所用的时间与精力。
+Example: Completion time / 完成时间
+
+26. Satisfaction
+
+EN: Users’ comfort and positive feelings.
+中: 用户的舒适感和正面感受。
+Example: Satisfaction survey / 满意度调查
+
+27. Learnability
+
+EN: Ease for new users to learn the system.
+中: 新用户学习系统的容易程度。
+Example: First-use success / 首次使用成功
+
+28. Error Rate
+
+EN: Number and severity of errors.
+中: 错误的数量与严重性。
+Example: Mistake count / 错误次数
+
+29. Time on Task
+
+EN: Time required to complete a task.
+中: 完成任务所需时间。
+Example: Seconds per task / 每任务秒数
+
+30. User Satisfaction Questionnaires
+
+EN: Collect subjective feedback from users.
+中: 收集用户主观反馈。
+Example: Post-test survey / 测试后问卷
+
+31. System Usability Scale (SUS)
+
+EN: A standardized 10-item usability questionnaire.
+中: 标准化的 10 题可用性问卷。
+Example: SUS score / SUS 分数
+
+32. Quantitative and Qualitative Measures
+
+Quantitative: Numerical data / 数字数据
+Qualitative: Descriptive data / 描述性数据
+Example: Time vs comments / 时间 vs 评论
+
+33. Objective and Subjective Measures
+
+Objective: Observable facts / 客观事实
+Subjective: User opinions / 用户意见
+Example: Error count vs rating / 错误数 vs 评分
+
+34. Interpreting Usability Data
+
+EN: Analyze results to identify problems and improvements.
+中: 分析数据以发现问题并改进系统。
+Example: Redesign slow workflow / 改进慢流程
