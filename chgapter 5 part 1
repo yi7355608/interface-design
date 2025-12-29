@@ -1,0 +1,107 @@
+1. Evaluation
+
+Explanation (EN): Evaluation is the process of assessing the usability of a system or interface.
+解释（中）： 评估是用来衡量系统或界面可用性的过程。
+Example: Test a website usability / 测试网站可用性
+
+2. Why Evaluate?
+
+Explanation (EN): Evaluation helps determine how usable a system is, identify good and bad features, compare designs, and observe user behavior.
+解释（中）： 评估用于判断系统是否好用、找出优缺点、比较设计方案以及观察用户行为。
+Example: Compare two app designs / 比较两个应用设计
+
+3. Importance of Evaluation
+
+Explanation (EN): Evaluation ensures users can use and like the system and helps fix problems before release.
+解释（中）： 评估确保用户能使用并喜欢系统，并在系统发布前修复问题。
+Example: Fix errors before launch / 发布前修复错误
+
+4. Goals of Evaluation
+
+Explanation (EN): Evaluation aims to assess system functionality, usability, user satisfaction, and identify specific problems.
+解释（中）： 评估的目标是检查系统功能、可用性、用户满意度并找出具体问题。
+Example: Find confusing features / 找出令人困惑的功能
+
+5. What to Evaluate?
+
+Explanation (EN): Both early designs (low-fidelity prototypes) and complete designs (high-fidelity prototypes) should be evaluated.
+解释（中）： 早期设计（低保真原型）和完整设计（高保真原型）都需要评估。
+Example: Paper prototype / 纸上原型
+
+6. When to Evaluate?
+
+Explanation (EN): Evaluation should be carried out throughout the Human–Computer Interaction process.
+解释（中）： 评估应贯穿整个 HCI 设计过程。
+Example: Test at every stage / 每个阶段测试
+
+7. Where to Evaluate?
+
+Explanation (EN): Evaluation can be done in laboratories or in real-world environments.
+解释（中）： 评估可以在实验室或真实环境中进行。
+Example: Usability lab / 可用性实验室
+
+8. Types of Evaluation
+
+Formative Evaluation – Conducted during design to improve the system / 设计阶段进行
+Summative Evaluation – Conducted after completion to assess final product / 完成后进行
+Example: Improve prototype vs final test / 改进原型 vs 最终测试
+
+9. Types of Evaluation Methods
+
+Explanation (EN): There are two main methods: expert analysis and user participation.
+解释（中）： 评估方法主要分为专家分析和用户参与。
+Example: Expert review vs user testing / 专家评估 vs 用户测试
+
+10. Expert Analysis
+
+Explanation (EN): Experts evaluate a system based on usability principles without involving real users.
+解释（中）： 专家根据可用性原则评估系统，不需要真实用户参与。
+Example: Heuristic evaluation / 启发式评估
+
+11. User Participation
+
+Explanation (EN): Real users evaluate the system by performing tasks and giving feedback.
+解释（中）： 真实用户通过执行任务和提供反馈来评估系统。
+Example: User testing session / 用户测试
+
+12. Styles of Evaluation
+
+Explanation (EN): Evaluation can be conducted as laboratory studies or field studies.
+解释（中）： 评估方式包括实验室研究和实地研究。
+Example: Lab test vs real environment / 实验室 vs 真实环境
+
+13. Laboratory Studies
+
+Explanation (EN): Users perform tasks in a controlled environment with special equipment.
+解释（中）： 用户在受控环境和专用设备下完成任务。
+Example: Usability lab test / 可用性实验室测试
+
+14. Advantages of Laboratory Studies
+
+Explanation (EN): Controlled environment and specialized equipment are available.
+解释（中）： 环境可控且有专业设备。
+Example: Screen recording / 屏幕录制
+
+15. Disadvantages of Laboratory Studies
+
+Explanation (EN): Expensive, time-consuming, and lacks real context.
+解释（中）： 成本高、耗时、缺乏真实情境。
+Example: Artificial setting / 人为环境
+
+16. Field Studies
+
+Explanation (EN): Evaluation conducted in the user’s real environment.
+解释（中）： 在用户真实使用环境中进行评估。
+Example: Observe users at workplace / 工作场所观察
+
+17. Advantages of Field Studies
+
+Explanation (EN): Real context is preserved.
+解释（中）： 保留真实使用情境。
+Example: Natural behavior / 自然行为
+
+18. Disadvantages of Field Studies
+
+Explanation (EN): Distractions and lack of control.
+解释（中）： 干扰多且难以控制。
+Example: Noise / 噪音干扰
