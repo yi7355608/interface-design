@@ -1,0 +1,417 @@
+1. Prototyping and Iterative Design
+
+Explanation (EN):
+Prototyping is a design approach where an early version of a system is built and tested. Iterative design improves the system through repeated design, testing, and refinement.
+
+解释（中）：
+原型设计是一种先构建系统早期版本并进行测试的方法。迭代设计通过反复设计、测试和改进来完善系统。
+
+Example (EN):
+
+Build, test, improve
+
+例子（中）：
+
+构建 → 测试 → 改进
+
+2. Prototype
+
+Explanation (EN):
+A prototype is a primitive or incomplete version of a system used to explore design ideas.
+
+解释（中）：
+原型是系统的初步或不完整版本，用于探索设计想法。
+
+Example (EN):
+
+Early system model
+
+例子（中）：
+
+系统初步模型
+
+3. Types of Prototypes
+Throw-Away Prototype
+
+Explanation (EN):
+A prototype that is built and tested, then discarded. The knowledge gained is used to build the final system.
+
+解释（中）：
+一次性原型在测试后会被丢弃，设计经验用于最终系统。
+
+Example (EN):
+
+Paper prototype
+
+例子（中）：
+
+纸上原型
+
+Incremental Prototype
+
+Explanation (EN):
+The final system is built and delivered in parts, with each version adding new components.
+
+解释（中）：
+增量原型是逐步构建系统，每次版本增加新功能。
+
+Example (EN):
+
+App updates
+
+例子（中）：
+
+应用程序逐步更新
+
+Evolutionary Prototype
+
+Explanation (EN):
+The prototype is continuously improved and becomes the final system.
+
+解释（中）：
+演化原型会不断改进，最终发展成正式系统。
+
+Example (EN):
+
+Beta software
+
+例子（中）：
+
+测试版软件
+
+4. Prototype in Human–Computer Interaction (HCI)
+
+Explanation (EN):
+In Human–Computer Interaction, prototypes allow users to test and give feedback on design ideas.
+
+解释（中）：
+在人机交互中，原型让用户参与测试并提供反馈。
+
+Example (EN):
+
+User testing session
+
+例子（中）：
+
+用户测试
+
+5. Why Prototype?
+
+Explanation (EN):
+Prototyping helps designers evaluate ideas, communicate with stakeholders, and choose better designs.
+
+解释（中）：
+原型设计有助于评估设计、与相关人员沟通并选择更好的方案。
+
+Example (EN):
+
+Collect feedback
+
+例子（中）：
+
+收集反馈
+
+6. Forms of Prototypes
+Hand-Drawn Prototype
+
+Explanation (EN):
+Screens are drawn by hand using paper and pencil.
+
+解释（中）：
+使用纸和笔手绘界面。
+
+Example (EN):
+
+Paper sketches
+
+例子（中）：
+
+手绘草图
+
+Tool-Drawn Prototype
+
+Explanation (EN):
+Screens are designed using software tools and printed for testing.
+
+解释（中）：
+使用软件工具设计界面并打印测试。
+
+Example (EN):
+
+Drawn in computer
+
+例子（中）：
+
+电脑绘制界面
+
+Screen Prototype
+
+Explanation (EN):
+Screens are shown on a computer but have little or no functionality.
+
+解释（中）：
+界面显示在电脑上，但功能很少或没有。
+
+Example (EN):
+
+Click does nothing
+
+例子（中）：
+
+点击无反应
+
+Functional Prototype
+
+Explanation (EN):
+Some buttons and menus actually work and may connect to real data.
+
+解释（中）：
+部分按钮和菜单可以真正运行，并可能连接真实数据。
+
+Example (EN):
+
+Working buttons
+
+例子（中）：
+
+可运行按钮
+
+7. What Designers Need to Know
+
+Explanation (EN):
+Prototypes help explore technical issues, workflow, and screen layout.
+
+解释（中）：
+原型有助于探索技术问题、工作流程和界面布局。
+
+Example (EN):
+
+Icon size
+
+例子（中）：
+
+图标大小
+
+8. Low-Fidelity Prototypes (Low-Fi Prototypes)
+
+Explanation (EN):
+Low-fidelity prototypes are simple, cheap, and easy to change, often made of paper.
+
+解释（中）：
+低保真原型简单、便宜、容易修改，通常使用纸张制作。
+
+Example (EN):
+
+Paper mock-up
+
+例子（中）：
+
+纸质模型
+
+9. Types of Low-Fidelity Prototypes
+Sketching
+
+Explanation (EN):
+Quick drawings used to brainstorm ideas.
+
+解释（中）：
+用于快速构思的简单绘图。
+
+Example (EN):
+
+Rough drawing
+
+例子（中）：
+
+粗略草图
+
+Storyboard
+
+Explanation (EN):
+A sequence of sketches showing how users complete tasks.
+
+解释（中）：
+一系列草图展示用户完成任务的过程。
+
+Example (EN):
+
+Step-by-step screens
+
+例子（中）：
+
+操作步骤画面
+
+Wireframe
+
+Explanation (EN):
+Shows layout and navigation structure without details.
+
+解释（中）：
+展示界面布局和导航结构，不强调细节。
+
+Example (EN):
+
+Page layout
+
+例子（中）：
+
+页面布局
+
+Card-Based Prototyping
+
+Explanation (EN):
+Uses index cards to represent screens.
+
+解释（中）：
+使用卡片代表不同界面。
+
+Example (EN):
+
+Website pages
+
+例子（中）：
+
+网站页面
+
+Wizard of Oz Prototype
+
+Explanation (EN):
+A human secretly controls the system to simulate functionality.
+
+解释（中）：
+由人类在幕后操作系统来模拟功能。
+
+Example (EN):
+
+Fake voice assistant
+
+例子（中）：
+
+模拟语音助手
+
+10. High-Fidelity Prototypes (High-Fi Prototypes)
+
+Explanation (EN):
+High-fidelity prototypes closely resemble the final system in appearance.
+
+解释（中）：
+高保真原型在外观上非常接近最终系统。
+
+Example (EN):
+
+App mock-up
+
+例子（中）：
+
+应用界面模型
+
+11. Tools for High-Fidelity Prototyping
+
+Explanation (EN):
+Software tools are used to create realistic prototypes.
+
+解释（中）：
+使用软件工具制作逼真的原型。
+
+Example (EN):
+
+Adobe XD, Figma
+
+例子（中）：
+
+Adobe XD、Figma
+
+12. Prototype Compromises
+
+Explanation (EN):
+All prototypes involve compromises in detail and functionality.
+
+解释（中）：
+所有原型都需要在细节和功能之间取舍。
+
+Horizontal Prototype
+
+Explanation (EN):
+Shows many functions with little detail.
+
+解释（中）：
+展示很多功能但细节较少。
+
+Example (EN):
+
+Many menus
+
+例子（中）：
+
+多菜单界面
+
+Vertical Prototype
+
+Explanation (EN):
+Shows detailed design for a few functions.
+
+解释（中）：
+对少数功能进行详细设计。
+
+Example (EN):
+
+One detailed feature
+
+例子（中）：
+
+一个详细功能
+
+13. Workplace Design and Ergonomics
+
+Explanation (EN):
+Ergonomics focuses on designing comfortable and safe work environments.
+
+解释（中）：
+人体工学关注设计舒适和安全的工作环境。
+
+Example (EN):
+
+Comfortable chair
+
+例子（中）：
+
+舒适的椅子
+
+14. Importance of Workplace Layout
+
+Explanation (EN):
+A good layout improves productivity and reduces physical strain.
+
+解释（中）：
+良好的工作布局提高效率并减少身体负担。
+
+Example (EN):
+
+Open office
+
+例子（中）：
+
+开放式办公室
+
+15. Environmental Factors in Workplace Design
+
+Explanation (EN):
+Environmental factors affect user performance and comfort.
+
+解释（中）：
+环境因素会影响用户的表现和舒适度。
+
+Lighting
+
+Example (EN): Proper lighting
+例子（中）： 合适的照明
+
+Noise Level
+
+Example (EN): Quiet office
+例子（中）： 安静的办公室
+
+Temperature and Air Quality
+
+Example (EN): Good ventilation
+例子（中）： 良好通风
