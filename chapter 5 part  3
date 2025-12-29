@@ -1,0 +1,102 @@
+Chapter 5: Evaluation – Part 3 (Usability Measurement)
+1. Usability Measurement
+
+Explanation (EN): Usability measurement is the process of measuring how usable a system is using specific metrics.
+解释（中）： 可用性测量是使用特定指标来衡量系统可用性的过程。
+Example: Measure task completion time / 测量完成任务时间
+
+2. Why Measure Usability?
+
+Explanation (EN): Measurement provides objective data to evaluate and improve system usability.
+解释（中）： 测量提供客观数据，用于评估和改进系统可用性。
+Example: Compare two designs / 比较两个设计
+
+3. Usability Metrics
+
+Explanation (EN): Metrics are quantifiable measures used to assess usability.
+解释（中）： 指标是用于评估可用性的可量化数据。
+Example: Error rate / 错误率
+
+4. Effectiveness
+
+Explanation (EN): Effectiveness measures accuracy and completeness of task completion.
+解释（中）： 有效性衡量任务完成的准确性和完整性。
+Example: Correct task completion / 正确完成任务
+
+5. Efficiency
+
+Explanation (EN): Efficiency measures the resources expended to achieve goals.
+解释（中）： 效率衡量完成目标所花费的时间和精力。
+Example: Task completion time / 完成任务时间
+
+6. Satisfaction
+
+Explanation (EN): Satisfaction measures users’ comfort and positive attitudes.
+解释（中）： 满意度衡量用户的舒适感和正面感受。
+Example: User survey rating / 用户满意度调查
+
+7. Learnability
+
+Explanation (EN): Learnability measures how easily new users learn to use the system.
+解释（中）： 可学习性衡量新用户学习系统的容易程度。
+Example: First-time task success / 首次任务成功率
+
+8. Error Rate
+
+Explanation (EN): Error rate measures the number and severity of user errors.
+解释（中）： 错误率衡量用户错误的数量和严重程度。
+Example: Number of mistakes / 错误次数
+
+9. Time on Task
+
+Explanation (EN): Time on task measures how long users take to complete a task.
+解释（中）： 任务时间衡量用户完成任务所需时间。
+Example: Seconds to submit form / 提交表单所需时间
+
+10. Task Success Rate
+
+Explanation (EN): Task success rate measures whether users can complete tasks successfully.
+解释（中）： 任务成功率衡量用户是否能成功完成任务。
+Example: Percentage of users succeed / 成功率百分比
+
+11. User Satisfaction Questionnaires
+
+Explanation (EN): Questionnaires collect subjective user feedback.
+解释（中）： 问卷用于收集用户的主观反馈。
+Example: Post-test survey / 测试后问卷
+
+12. System Usability Scale (SUS)
+
+Explanation (EN): System Usability Scale (SUS) is a standardized 10-item questionnaire for usability measurement.
+解释（中）： 系统可用性量表（System Usability Scale，SUS）是一种标准的 10 题问卷。
+Example: SUS score / SUS 分数
+
+13. Quantitative Measures
+
+Explanation (EN): Quantitative measures use numerical data.
+解释（中）： 定量测量使用数字数据。
+Example: Completion time / 完成时间
+
+14. Qualitative Measures
+
+Explanation (EN): Qualitative measures use descriptive data.
+解释（中）： 定性测量使用描述性数据。
+Example: User comments / 用户意见
+
+15. Objective Measures
+
+Explanation (EN): Objective measures are based on observable facts.
+解释（中）： 客观测量基于可观察的事实。
+Example: Error count / 错误数量
+
+16. Subjective Measures
+
+Explanation (EN): Subjective measures are based on user opinions.
+解释（中）： 主观测量基于用户意见。
+Example: Satisfaction rating / 满意度评分
+
+17. Interpreting Usability Data
+
+Explanation (EN): Results should be analyzed to identify usability problems and improvements.
+解释（中）： 分析结果以找出可用性问题并改进系统。
+Example: Redesign slow process / 改进慢流程
