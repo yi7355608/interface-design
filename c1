@@ -1,307 +1,102 @@
 1. User Interface (UI)
 
-Explanation (EN):
-User Interface (UI) is the space where humans interact with computers to operate and control a system.
-
-解释（中）：
-用户界面（User Interface，UI）是人类与计算机进行交互、操作和控制系统的空间。
-
-Example (EN):
-
-Website interface
-
-例子（中）：
-
-网站界面
+EN: User Interface (UI) is the space where humans interact with computers to operate and control a system.
+中: 用户界面（User Interface，UI）是人类与计算机进行交互、操作和控制系统的空间。
+Example: Website interface / 网站界面
 
 2. Components of Computer User Interface
 
-Explanation (EN):
-User Interface includes all parts users can see, hear, or touch.
-
-解释（中）：
-用户界面包括用户可以看到、听到或触摸到的所有部分。
-
-Example (EN):
-
-Keyboard and screen
-
-例子（中）：
-
-键盘和屏幕
+EN: User Interface includes all parts users can see, hear, or touch.
+中: 用户界面包括用户可以看到、听到或触摸到的所有部分。
+Example: Keyboard and screen / 键盘和屏幕
 
 3. Human (User) Consideration in Interface Design
 
-Explanation (EN):
-Humans have limited ability to process information, so interfaces must be simple.
-
-解释（中）：
-人类处理信息的能力有限，因此界面设计应简洁。
-
-Example (EN):
-
-Simple screen layout
-
-例子（中）：
-
-简单的屏幕布局
+EN: Humans have limited ability to process information, so interfaces must be simple.
+中: 人类处理信息的能力有限，因此界面设计应简洁。
+Example: Simple layout / 简单布局
 
 4. Human–Computer Interaction (HCI)
 
-Explanation (EN):
-Human–Computer Interaction (HCI) studies how people interact with computers to design better systems.
+EN: Human–Computer Interaction (HCI) studies how people interact with computers to design better systems.
+中: 人机交互（Human–Computer Interaction，HCI）研究人类如何与计算机互动，以设计更好的系统。
+Example: User-friendly kiosk / 易用的自助机
 
-解释（中）：
-人机交互（Human–Computer Interaction，HCI）研究人类如何与计算机互动，以设计更好的系统。
+5. Usability (ISO 9241-11)
 
-Example (EN):
-
-User-friendly kiosk
-
-例子（中）：
-
-友善的自助服务机
-
-5. Usability (ISO 9241-11:2018)
-
-Explanation (EN):
-Usability measures how well users achieve goals with effectiveness, efficiency, and satisfaction.
-
-解释（中）：
-可用性（Usability）衡量用户以有效性、效率和满意度完成目标的程度。
-
-Example (EN):
-
-Easy-to-use application
-
-例子（中）：
-
-易用的应用程序
+EN: Usability is the extent to which users achieve goals with effectiveness, efficiency, and satisfaction.
+中: 可用性（Usability）是用户以有效性、效率和满意度完成目标的程度。
+Example: Easy-to-use app / 易用应用
 
 6. Effectiveness
 
-Explanation (EN):
-Effectiveness is the accuracy and completeness of task completion.
-
-解释（中）：
-有效性（Effectiveness）指完成任务的准确性和完整性。
-
-Example (EN):
-
-Form submitted correctly
-
-例子（中）：
-
-表单正确提交
+EN: Effectiveness is the accuracy and completeness of task completion.
+中: 有效性（Effectiveness）指完成任务的准确性和完整性。
+Example: Correct form submission / 正确提交表单
 
 7. Efficiency
 
-Explanation (EN):
-Efficiency is the amount of time and effort used to complete a task.
-
-解释（中）：
-效率（Efficiency）指完成任务所花费的时间和精力。
-
-Example (EN):
-
-Task finished quickly
-
-例子（中）：
-
-快速完成任务
+EN: Efficiency is the time and effort used to complete a task.
+中: 效率（Efficiency）指完成任务所花费的时间和精力。
+Example: Task done quickly / 快速完成任务
 
 8. Satisfaction
 
-Explanation (EN):
-Satisfaction is how comfortable and happy users feel using a system.
-
-解释（中）：
-满意度（Satisfaction）指用户使用系统时的舒适和愉快程度。
-
-Example (EN):
-
-Enjoyable application
-
-例子（中）：
-
-用起来舒服的应用
+EN: Satisfaction is how comfortable and happy users feel using a system.
+中: 满意度（Satisfaction）指用户使用系统时的舒适与愉快程度。
+Example: Enjoyable app / 用得舒服的应用
 
 9. User Experience (UX)
 
-Explanation (EN):
-User Experience (UX) is the overall feeling when using a system.
-
-解释（中）：
-用户体验（User Experience，UX）是用户使用系统时的整体感受。
-
-Example (EN):
-
-Fun learning app
-
-例子（中）：
-
-有趣的学习应用
+EN: User Experience (UX) is the overall feeling when using a system.
+中: 用户体验（User Experience，UX）是用户使用系统时的整体感受。
+Example: Fun learning app / 有趣的学习应用
 
 10. Relationship between Usability and User Experience
 
-Explanation (EN):
-Usability focuses on function, while user experience focuses on feelings.
-
-解释（中）：
-可用性关注功能，用户体验关注感受。
-
-Example (EN):
-
-Works but not enjoyable
-
-例子（中）：
-
-能用但不好用
+EN: Usability focuses on function, while user experience focuses on feeling.
+中: 可用性关注功能，用户体验关注感受。
+Example: Works but not enjoyable / 能用但不好用
 
 11. Types of User Interfaces
-Graphical User Interface (GUI)
 
-Explanation:
-Uses icons and menus for interaction.
-解释：
-图形用户界面（GUI）通过图标和菜单交互。
-Example (EN): Windows
-例子（中）： Windows 系统
-
-Command-Line Interface (CLI)
-
-Explanation:
-Uses text commands.
-解释：
-命令行界面（CLI）通过文字指令操作。
-Example (EN): Linux terminal
-例子（中）： Linux 终端
-
-Voice User Interface (VUI)
-
-Explanation:
-Uses voice commands.
-解释：
-语音用户界面（VUI）使用语音操作。
-Example (EN): Alexa
-例子（中）： Alexa 语音助手
-
-Touch User Interface (TUI)
-
-Explanation:
-Uses touch gestures.
-解释：
-触摸用户界面（TUI）使用触摸手势。
-Example (EN): Smartphone
-例子（中）： 智能手机
-
-Augmented Reality and Virtual Reality Interface (AR/VR Interface)
-
-Explanation:
-Provides immersive interaction.
-解释：
-增强现实与虚拟现实界面（AR/VR）提供沉浸式交互。
-Example (EN): Virtual reality game
-例子（中）： 虚拟现实游戏
+Graphical User Interface (GUI): Uses icons and menus. 图形用户界面，通过图标和菜单交互。 Example: Windows / Windows 系统
+Command-Line Interface (CLI): Uses text commands. 命令行界面，通过指令操作。 Example: Linux terminal / Linux 终端
+Voice User Interface (VUI): Uses voice commands. 语音用户界面。 Example: Alexa / Alexa
+Touch User Interface (TUI): Uses touch gestures. 触摸用户界面。 Example: Smartphone / 智能手机
+Augmented Reality and Virtual Reality Interface (AR/VR): Immersive interaction. 增强/虚拟现实界面。 Example: VR game / VR 游戏
 
 12. Evolution of User Interaction
 
-Explanation (EN):
-User interaction evolved as technology improved.
-
-解释（中）：
-随着科技发展，用户交互方式不断演变。
-
-Example (EN):
-
-Touch screen phones
-
-例子（中）：
-
-触屏手机
+EN: User interaction evolved with technology.
+中: 用户交互方式随着技术发展而演变。
+Example: Touchscreen phones / 触屏手机
 
 13. Importance of Good User Interface Design
 
-Explanation (EN):
-Good design improves usability and user satisfaction.
-
-解释（中）：
-良好的界面设计提高可用性和用户满意度。
-
-Example (EN):
-
-Simple search page
-
-例子（中）：
-
-简洁的搜索页面
+EN: Good design improves usability and satisfaction.
+中: 良好设计提升可用性和满意度。
+Example: Simple search page / 简洁搜索页
 
 14. Effects of Poor User Interface Design
 
-Explanation (EN):
-Poor design causes errors and frustration.
+EN: Poor design causes errors and frustration.
+中: 糟糕设计会造成错误和挫折感。
+Example: Confusing buttons / 混乱按钮
 
-解释（中）：
-糟糕的界面设计会造成错误和挫折感。
+15. Principles of Good User Interface Design
 
-Example (EN):
-
-Confusing buttons
-
-例子（中）：
-
-混乱的按钮设计
-
-15. Principles of Good User Interface Design(golden rule)
-
-Explanation (EN):
-Good interfaces follow basic design principles.
-
-解释（中）：
-良好的界面设计遵循基本设计原则。
-
-Examples (EN + 中):
-
-Consistency → same layout / 一致的布局
-
-Feedback → loading bar / 加载进度条
-
-Simplicity → clean design / 简洁设计
-
-Error prevention → undo button / 撤销按钮
-
-Accessibility → subtitles / 字幕
+Consistency（一致性）, Feedback（反馈）, Simplicity（简洁）, Error Prevention（错误预防）, Accessibility（无障碍）
+Examples: Progress bar / 进度条, Undo button / 撤销按钮
 
 16. Human–Computer Interaction Design Framework
 
-Explanation (EN):
-Focuses on user-centered and iterative design.
-
-解释（中）：
-强调以用户为中心并反复改进设计。
-
-Example (EN):
-
-Test and improve
-
-例子（中）：
-
-测试并改进
+EN: Focuses on user-centered and iterative design.
+中: 强调以用户为中心并反复改进。
+Example: Test and improve / 测试并改进
 
 17. Disciplines Contributing to Human–Computer Interaction
 
-Explanation (EN):
-Different disciplines help design interactive systems.
-
-解释（中）：
-多个学科共同帮助设计交互系统。
-
-Examples (EN + 中):
-
-Computer Science → system design / 系统设计
-
-Cognitive Psychology → user thinking / 用户思维
-
-Ergonomics → comfort / 舒适度
-
-Social Psychology → group behavior / 群体行为
+EN: Multiple disciplines support interaction design.
+中: 多学科共同支持交互设计。
+Examples: Computer Science / 计算机科学, Cognitive Psychology / 认知心理学, Ergonomics / 人体工学
