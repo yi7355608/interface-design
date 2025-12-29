@@ -1,0 +1,133 @@
+1. Socio-Technical System (STS)
+
+EN: A socio-technical system combines technical elements and social elements that must work together.
+中: 社会—技术系统（Socio-Technical System，STS）结合技术因素和社会因素，两者需同时设计。
+Example: Online learning system / 在线学习系统
+
+2. Technical System
+
+EN: The technical system includes hardware, software, and procedures.
+中: 技术系统包括硬件、软件和操作流程。
+Example: Learning platform software / 学习平台软件
+
+3. Social System
+
+EN: The social system includes people, roles, rules, and culture.
+中: 社会系统包括人、角色、规则和文化。
+Example: Students and teachers / 学生和老师
+
+4. Interaction Between Social and Technical Systems
+
+EN: System success depends on how well social and technical parts fit together.
+中: 系统成功取决于社会部分与技术部分的配合程度。
+Example: User training for new system / 新系统用户培训
+
+5. Human Factors
+
+EN: Human factors study how people interact with systems to improve safety and performance.
+中: 人因因素研究人如何与系统互动，以提高安全性和效率。
+Example: Simple interface design / 简单界面设计
+
+6. Cognitive Load
+
+EN: Cognitive load refers to the mental effort required to use a system.
+中: 认知负荷指使用系统时所需的心理负担。
+Example: Too many buttons / 按钮太多
+
+7. Reducing Cognitive Load
+
+EN: Interfaces should minimize unnecessary thinking.
+中: 界面应减少不必要的思考。
+Example: Clear menu structure / 清晰菜单结构
+
+8. Error Prevention
+
+EN: Systems should prevent users from making mistakes.
+中: 系统应帮助用户避免错误。
+Example: Confirmation dialog / 确认提示框
+
+9. Feedback
+
+EN: Feedback tells users what the system is doing.
+中: 反馈让用户知道系统状态。
+Example: Loading bar / 加载进度条
+
+10. Consistency
+
+EN: Consistency makes systems easier to learn and use.
+中: 一致性让系统更容易学习和使用。
+Example: Same button style / 相同按钮风格
+
+11. Accessibility
+
+EN: Systems should be usable by people with disabilities.
+中: 系统应让残障人士也能使用。
+Example: Screen reader support / 屏幕阅读器支持
+
+12. User-Centered Design (UCD)
+
+EN: User-Centered Design focuses on users throughout development.
+中: 以用户为中心设计（User-Centered Design，UCD）强调开发全过程关注用户需求。
+Example: User testing / 用户测试
+
+13. Participatory Design
+
+EN: Users actively participate in the design process.
+中: 参与式设计让用户直接参与设计过程。
+Example: Design workshop / 设计工作坊
+
+14. User Involvement
+
+EN: Involving users improves system acceptance and usability.
+中: 用户参与能提高系统可用性和接受度。
+Example: Feedback session / 反馈会议
+
+15. User Types
+
+Novice Users: New users who need guidance / 新手用户需要引导
+Knowledgeable Intermittent Users: Experienced but infrequent users / 间歇性熟练用户
+Expert Users: Frequent and skilled users / 专家用户
+Example: Beginner vs programmer / 初学者 vs 程序员
+
+16. Designing for Different Users
+
+EN: Systems should support different skill levels.
+中: 系统应支持不同技能水平的用户。
+Example: Help tips and shortcuts / 提示与快捷键
+
+17. Requirements
+
+Functional Requirements: What the system does / 系统做什么
+Non-Functional Requirements: How the system performs / 系统如何运行
+Example: Save data / 保存数据, Fast response / 快速响应
+
+18. Requirement Gathering
+
+EN: User requirements are collected using different methods.
+中: 通过多种方法收集用户需求。
+Methods: Interviews, questionnaires, observation / 访谈、问卷、观察
+Example: Observe ATM users / 观察 ATM 用户
+
+19. Context of Use
+
+EN: Context includes environment, tasks, and tools.
+中: 使用情境包括环境、任务和工具。
+Example: Mobile app used outdoors / 户外使用手机应用
+
+20. Organizational Factors
+
+EN: Organizational rules and structure affect system use.
+中: 组织规则和结构会影响系统使用。
+Example: Company policy / 公司政策
+
+21. Training and Support
+
+EN: Training helps users adapt to new systems.
+中: 培训帮助用户适应新系统。
+Example: User manual / 用户手册
+
+22. Change Management
+
+EN: Managing change reduces resistance to new systems.
+中: 变革管理可减少用户抗拒。
+Example: Gradual system rollout / 分阶段上线
