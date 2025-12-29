@@ -1,0 +1,95 @@
+Chapter 5: Evaluation – Part 2 (Expert Analysis)
+1. Expert Analysis
+
+Explanation (EN): Expert analysis is an evaluation method where usability experts inspect an interface without involving real users.
+解释（中）： 专家分析是一种由可用性专家在没有真实用户参与下，对界面进行评估的方法。
+Example: Expert reviews a website / 专家评估网站
+
+2. Why Use Expert Analysis?
+
+Explanation (EN): It is fast, cost-effective, and can be done early in the design process.
+解释（中）： 专家分析速度快、成本低，并且可在设计早期进行。
+Example: Early prototype review / 早期原型评估
+
+3. Types of Expert Analysis
+
+Explanation (EN): Common expert analysis methods include heuristic evaluation, cognitive walkthrough, and guideline review.
+解释（中）： 常见的专家分析方法包括启发式评估、认知走查和设计准则评估。
+
+4. Heuristic Evaluation
+
+Explanation (EN): Heuristic evaluation involves experts examining an interface using a set of usability heuristics.
+解释（中）： 启发式评估是专家依据一组可用性原则来检查界面。
+Example: Check consistency and feedback / 检查一致性和反馈
+
+5. Nielsen’s Usability Heuristics
+
+Explanation (EN): Jakob Nielsen proposed ten usability heuristics to identify usability problems.
+解释（中）： Jakob Nielsen 提出了十项可用性启发式原则来发现问题。
+Example: Visibility of system status / 系统状态可见性
+
+6. Advantages of Heuristic Evaluation
+
+Explanation (EN): Finds many usability problems quickly with minimal resources.
+解释（中）： 能快速发现大量可用性问题，所需资源少。
+Example: Short expert review / 快速专家评估
+
+7. Disadvantages of Heuristic Evaluation
+
+Explanation (EN): Depends heavily on expert experience and may miss real user issues.
+解释（中）： 结果依赖专家经验，可能忽略真实用户问题。
+Example: Expert bias / 专家偏见
+
+8. Cognitive Walkthrough
+
+Explanation (EN): Cognitive walkthrough evaluates how easily new users can learn a system by stepping through tasks.
+解释（中）： 认知走查通过一步步检查任务流程，评估新手用户是否容易学习系统。
+Example: First-time user completing a task / 新手完成任务
+
+9. Focus of Cognitive Walkthrough
+
+Explanation (EN): Focuses on learnability and problem-solving.
+解释（中）： 重点关注可学习性和问题解决能力。
+Example: Can user find next step? / 用户能否找到下一步？
+
+10. Advantages of Cognitive Walkthrough
+
+Explanation (EN): Good for evaluating systems intended for novice users.
+解释（中）： 特别适合评估新手用户使用的系统。
+Example: Public service system / 公共服务系统
+
+11. Disadvantages of Cognitive Walkthrough
+
+Explanation (EN): Time-consuming and less effective for expert users.
+解释（中）： 比较耗时，对专家用户不太适合。
+Example: Not suitable for shortcuts / 不适合快捷操作
+
+12. Guideline Review
+
+Explanation (EN): Experts compare the interface against established design guidelines or standards.
+解释（中）： 专家将界面与既定的设计准则或标准进行比较。
+Example: ISO standards check / ISO 标准检查
+
+13. Advantages of Guideline Review
+
+Explanation (EN): Ensures consistency with standards and best practices.
+解释（中）： 确保界面符合标准和最佳实践。
+Example: Company UI standard / 公司界面规范
+
+14. Disadvantages of Guideline Review
+
+Explanation (EN): Guidelines may be too general and not cover specific contexts.
+解释（中）： 设计准则可能过于笼统，无法涵盖具体情境。
+Example: Special user needs ignored / 忽略特殊用户需求
+
+15. When to Use Expert Analysis
+
+Explanation (EN): Best used early in design or when user testing is not available.
+解释（中）： 适合在设计早期或无法进行用户测试时使用。
+Example: Tight schedule project / 时间紧迫项目
+
+16. Role of Experts
+
+Explanation (EN): Experts identify problems, suggest improvements, and guide redesign.
+解释（中）： 专家负责发现问题、提出改进建议并指导重新设计。
+Example: Usability consultant / 可用性顾问
